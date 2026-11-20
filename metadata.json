@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect",
+  "description": "Find reliable, affordable local services near campus in Dehradun. Compare verified food, laundry, printing, stationery, transport, and accommodation options and send service requests in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
